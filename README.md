@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hj031221/ecommerce-churn-analytics.git
+git clone https://github.com/hj031221/ecommerce-churn_analytics.git
 cd ecommerce-churn-analytics
 ```
 
